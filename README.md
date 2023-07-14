@@ -4,3 +4,5 @@
 > run set_splict.py to splict train/test dataset
 > 
 > run train_id.py to train (most of the parameters can be altered here)
+
+## Oops! The dataset is too big to upload, so you have to find it anywhere else. The name of it is "KDD-CUP-data". Or you can contect me for one by 1793706453@qq.com
